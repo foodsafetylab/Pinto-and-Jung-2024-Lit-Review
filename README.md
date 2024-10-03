@@ -15,7 +15,7 @@ USA<br>
 [mstasie@illinois.edu](mailto:mstasie@illinois.edu)
 
 ## Citation
-Include citation here.
+[Pending]
 
 ## License
 This project's dataset is licensed the Creative Commons Attribution Share Alike 4.0 International license. Please see the [LICENSE.dataset](/LICENSE.dataset) files for details.
