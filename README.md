@@ -20,8 +20,5 @@ USA<br>
 ## License
 This project's dataset is licensed the Creative Commons Attribution Share Alike 4.0 International license. Please see the [LICENSE.dataset](/LICENSE.dataset) files for details.
 
-## Acknowledgements
-Include acknowledgements relevant to the project here.
-
 ## Funding
-Include the source of project funding here.
+Funding for the project was made possible by The Center for Produce Safety project 2023CPS08. Any opinions, findings, conclusions, or recommendations expressed in this publication are those of the authors and do not necessarily reflect the view of The Center for Produce Safety. (https://www.centerforproducesafety.org/).
