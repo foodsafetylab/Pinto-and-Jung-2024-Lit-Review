@@ -16,7 +16,7 @@ USA<br>
 [mstasie@illinois.edu](mailto:mstasie@illinois.edu)
 
 ## Accessing Supplemental Materials.
-The supplemental materials, found in the [Supplementary Materials](/Supplementary Materials) folder for this manuscript include a supplementary materials document and two master Excel spreadsheets: one for the parameter estimates extracted for STEC and one for L. monocytogenes
+The supplemental materials, found in the [Supplementary Materials](https://github.com/foodsafetylab/Pinto-and-Jung-2024-Lit-Review/tree/main/Supplementary%20Materials) folder for this manuscript include a supplementary materials document and two master Excel spreadsheets: one for the parameter estimates extracted for STEC and one for L. monocytogenes
 
 ## Citation
 [Pending]
