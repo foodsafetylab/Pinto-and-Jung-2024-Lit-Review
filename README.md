@@ -23,7 +23,7 @@ The supplemental materials, found in the [Supplementary Materials](https://githu
 To aid those in accessing the references cited in our manuscript that do not have DOIs, such as government webpages, reports, etc., we have provided the PDFs in a folder here: [PDFs for Citations](https://github.com/foodsafetylab/Pinto-and-Jung-2024-Lit-Review/tree/main/PDFs%20for%20Citations). Documents are named according to their in-text citation and title of document or report (e.g., FDA 2022a - Food Code)
 
 ## Citation
-Jung, Y., Pinto, G., Reyes, G.A., Qian, C. Wiedmann, M., Stasiewicz, M.J. (2025). A critical review of parameters relevant for Shiga toxin-producing Escherichia coli and Listeria monocytogenes risk assessments of leafy greens. J_ournal of Food Protection_. [DOI PENDING]
+Jung, Y., Pinto, G., Reyes, G.A., Qian, C. Wiedmann, M., Stasiewicz, M.J. (2025). A critical review of parameters relevant for Shiga toxin-producing Escherichia coli and Listeria monocytogenes risk assessments of leafy greens. _Journal of Food Protection_. [DOI PENDING]
 
 ## License
 This project's dataset is licensed the Creative Commons Attribution Share Alike 4.0 International license. Please see the [LICENSE.dataset](/LICENSE.dataset) files for details.
