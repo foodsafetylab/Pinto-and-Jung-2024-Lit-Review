@@ -15,8 +15,12 @@ USA<br>
 +1-217-265-0963<br>
 [mstasie@illinois.edu](mailto:mstasie@illinois.edu)
 
-## Accessing Supplemental Materials
+## Accessing Supplementary Materials
 The supplemental materials, found in the [Supplementary Materials](https://github.com/foodsafetylab/Pinto-and-Jung-2024-Lit-Review/tree/main/Supplementary%20Materials) folder for this manuscript include a supplementary materials document and two master Excel spreadsheets: one for the parameter estimates extracted for STEC and one for _L. monocytogenes_. Clicking on each excel file will prompt you to download the file. 
+
+## Accessing PDFs from Citations
+
+To aid those reading our manuscript, we have provided the PDFs in a folder on this repository for references which do not have a DOI. Documents are named according to their in-text citation and title of document or report (e.g., FDA 2022a - Title of Document or Report)
 
 ## Citation
 [Pending]
